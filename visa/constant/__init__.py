@@ -24,3 +24,9 @@ DATA_INGESTION_TEST_DIR_KEY = "ingested_test_dir"
 TRAINING_PIPELINE_CONFIG_KEY = "training_pipeline_config"
 TRAINING_PIPELINE_ARTIFACT_DIR_KEY = "artifact_dir"
 TRAINING_PIPELINE_NAME_KEY = "pipeline_name"
+
+# Company Variable
+COLUMN_COMPANY_AGE = "company_age"
+COLUMN_YEAR_ESTB = "yr_of_estab"
+COLUMN_ID = "case_id"
+COLUMN_CASE_STATUS = "case_status"
